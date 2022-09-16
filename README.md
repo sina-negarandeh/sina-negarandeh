@@ -1,6 +1,8 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-negarandeh&layout=compact&langs_count=6&title_color=6BA4F8&text_color=CAD1D8&bg_color=0E1116)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+### Hi there 👋
+
 **sina-negarandeh/sina-negarandeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
