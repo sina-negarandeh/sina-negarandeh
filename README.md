@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-negarandeh&layout=compact&langs_count=6&title_color=6BA4F8&text_color=CAD1D8&bg_color=0E1116)](https://github.com/anuraghazra/github-readme-stats)
+![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sina-negarandeh&count_private=true&show_icons=true&title_color=6BA4F8&icon_color=79ff97&text_color=CAD1D8&bg_color=0E1116)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-negarandeh&layout=compact&langs_count=8&title_color=6BA4F8&text_color=CAD1D8&bg_color=0E1116)
 
 <!--
 ### Hi there 👋
