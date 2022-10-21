@@ -1,3 +1,31 @@
+# 👨‍💻 About Me
+
+## 🎓 Academic Biography
+
+I am Sina Negarandeh, an undergraduate computer engineering student in the [College of Electric and Computer Engineering](https://ece.ut.ac.ir/en/) at the [University of Tehran](https://ut.ac.ir/en).
+
+## 🔬 Research
+
+My research interests are **Machine Learning**, **Natural Language Processing**, and  **Data Analytics**. And especially their applications in **healthcare**. More specifically, topics I am interested in are:
+
+### Artificial Intelligence
+
+- Machine Learning
+  - Deep Learning
+  - Reinforcement Learning
+
+- Natural Language Processing
+
+### Data Science
+
+- Data Analytics
+
+### Human‑Computer Interaction
+
+## 📫 Contact
+
+If you need any further information, please email me at [sina.negarandeh.edu@gmail.com](mailto:sina.negarandeh.edu@gmail.com).
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sina-negarandeh&count_private=true&show_icons=true&title_color=6BA4F8&icon_color=64B65D&text_color=CAD1D8&bg_color=0E1116">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sina-negarandeh&count_private=true&show_icons=true&title_color=2E67D3&icon_color=69CD67&text_color=586069&bg_color=FFFFFF">
