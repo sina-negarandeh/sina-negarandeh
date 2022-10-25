@@ -29,9 +29,9 @@ If you need any further information, please email me at [sina.negarandeh.edu@gma
 ## 📊 GitHub Stats and Top Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sina-negarandeh&count_private=true&show_icons=true&title_color=6BA4F8&icon_color=64B65D&text_color=CAD1D8&bg_color=0E1116&card_width=512">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sina-negarandeh&count_private=true&show_icons=true&title_color=2E67D3&icon_color=69CD67&text_color=586069&bg_color=FFFFFF&card_width=512">
-  <img alt="Sina's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sina-negarandeh&count_private=true&show_icons=true&title_color=2E67D3&icon_color=69CD67&text_color=586069&bg_color=FFFFFF&card_width=512">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sina-negarandeh&count_private=true&include_all_commits=true&show_icons=true&title_color=6BA4F8&icon_color=64B65D&text_color=CAD1D8&bg_color=0E1116&card_width=512">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sina-negarandeh&count_private=true&include_all_commits=true&show_icons=true&title_color=2E67D3&icon_color=69CD67&text_color=586069&bg_color=FFFFFF&card_width=512">
+  <img alt="Sina's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sina-negarandeh&count_private=true&include_all_commits=true&show_icons=true&title_color=2E67D3&icon_color=69CD67&text_color=586069&bg_color=FFFFFF&card_width=512">
 </picture>
 
 <picture>
