@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-
+<!--
 ## 🎓 Academic Biography
 
 I am Sina Negarandeh, an undergraduate computer engineering student in the [College of Electric and Computer Engineering](https://ece.ut.ac.ir/en/) at the [University of Tehran](https://ut.ac.ir/en).
@@ -25,6 +25,7 @@ My research interests are **Machine Learning**, **Natural Language Processing**,
 ## 📫 Contact
 
 If you need any further information, please email me at [sina.negarandeh.edu@gmail.com](mailto:sina.negarandeh.edu@gmail.com).
+-->
 
 ## 📊 GitHub Stats and Top Languages
 
